@@ -1,0 +1,11 @@
+[package]
+name = "fib-finder-gui"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bstr = "1.12.0"
+eframe = "0.32.3"
+egui = "0.32.3"
+ibig = "0.3.6"
+num_cpus = "1.17.0"
